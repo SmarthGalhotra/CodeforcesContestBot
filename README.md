@@ -30,7 +30,7 @@ node script.js
 # this will open vim window
 # and compare your sol.cpp output v/s sample output for all test cases
 # each test case is compared in each tab
-# enter wa to unfold ouput line
+# enter zo to unfold ouput line
 # press gt to cycle through the vim tabs
 # write :qa! to exit all tabs at once
 ```
