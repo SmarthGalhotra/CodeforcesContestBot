@@ -1,4 +1,5 @@
 #include</users/smarthgalhotra/stdc++.h>
+//#include<bits/stdc++.h>
 using namespace std;
 #define gc getchar_unlocked
 #define fo(i,n) for(i=0;i<n;i++)
